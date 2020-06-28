@@ -132,4 +132,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array('Country_model', 'Gamecategory_model', 'Gamedeveloper_model', 'Game_model', 'Team_model');
+$autoload['model'] = array('Country_model', 'Gamecategory_model', 'Gamedeveloper_model', 'Game_model', 'Team_model', 'Player_model', 'Tournament_model', 'News_model', 'Gamepatch_model');
