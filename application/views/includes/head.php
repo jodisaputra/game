@@ -40,7 +40,7 @@
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item"><a href="<?php echo base_url('Homepage'); ?>" class="nav-link">Home</a></li>
 					<li class="nav-item"><a href="<?php echo base_url('Homepage/games') ?>" class="nav-link">Games</a></li>
-					<li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+					<!-- <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li> -->
 					<!-- <li class="nav-item cta"><a href="#" class="nav-link">Buy Ticket</a></li> -->
 
 				</ul>
